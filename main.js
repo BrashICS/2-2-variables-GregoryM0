@@ -12,4 +12,20 @@
 // Some example variables
 let it_is_christmas = false
 let teaching_partner = "Mr. Squirrel"
-let number_of_students = 27
+let number_of_students = 2
+
+let length = 10
+let width = 5
+let area = length * width
+console.log(area)
+console.log("area:", area)
+
+let first_name = "Santa"
+let last_name = "Claws"
+last_name = "Claus"
+console.log("I still beleive in", first_name, last_name)
+console.log(typeof area, last_name)
+
+const PI = 3.14
+let radius = 9
+console.log(PI * radius * radius)
